@@ -1,0 +1,148 @@
+    1  who am ı
+    2  who amm i
+    3  who am i
+    4  clear
+    5  pwd
+    6  ls
+    7  cd feyz
+    8  cd desktop
+    9  pwd
+   10  cd desktop
+   11  ls
+   12  cd cookies
+   13  cd ..
+   14  clear
+   15  pwd
+   16  cd SQL
+   17  cd SQL
+   18  cd masaüstü
+   19  cd Masaüstü
+   20  cd masaüstü
+   21  pwd
+   22  cd sql
+   23  ls
+   24  touch goit.txt
+   25  ls
+   26  mkdir dersler
+   27  rm goit.txt
+   28  rmdir dersler
+   29  date
+   30  ping www.google.com
+   31  system info
+   32  systeminfo
+   33  ipconfig
+   34  git config --global user.name
+   35  
+   36  git config --global user.feyyzanur
+   37  git config -- global user.feyzanur_demir@hotmail.com
+   38  git config --global user.feyzanur_demir@hotmail.com
+   39  cd SQL
+   40  cd one drive
+   41  cd masaüstü
+   42  Users\Mustafa\OneDrive\Desktop
+   43  cd users
+   44  pwd
+   45  pwd
+   46  pwd
+   47  cd masaüstü
+   48  cd../
+   49  cd..
+   50  cd ..
+   51  cd ..
+   52  pwd
+   53  cd onedrive
+   54  cd masaüstü
+   55  cd sql
+   56  cd SQL
+   57  ld
+   58  ls
+   59  ls
+   60  dir
+   61  cd SQL
+   62  cd ..
+   63  cd masaüstü
+   64  pwd
+   65  cd masaüstü
+   66  cd desktop
+   67  cd sql
+   68  mkdir feyza
+   69  pmdir feyza
+   70  rmdir feyza
+   71  git init
+   72  git add .
+   73  git commit -m "ilk versiyon"
+   74    git config --global user.feyyzanur
+   75   git config --global user.feyzanur_demir@hotmail.com
+   76   git commit -m "ilk versiyon"
+   77  git config --global user.name "feyyzanur"
+   78  git config --global user.email "feyzanur_demir@hotmail.com"
+   79  $  git commit -m "ilk versiyon"
+   80  git commit -m "ilk versiyon"
+   81  git remote add origin https://github.com/feyyzanur/goit.git
+   82  git push -u origin main
+   83  git push -u origin master
+   84  git branch
+   85  git branch feyyza
+   86  git branch
+   87  git branch demir
+   88  git branch 
+   89  git checkout feyyza
+   90  git branch
+   91  git checkout master
+   92  git add .
+   93  git commit -m "masterv1"
+   94  git branch feyyza
+   95  git checkout feyyza
+   96  git add .
+   97  git commit -m "feyyza v1"
+   98  git checkout master
+   99  git merge feyyza
+  100  git add .
+  101  git commit -m "merge v1"
+  102  git push
+  103  git push 
+  104  git add .
+  105  git commit 
+  106  git branch
+  107  git checkout master
+  108  cd
+  109  cd desktop
+  110  pwd
+  111  cd onedrive
+  112  cd desktop
+  113  cd SQL
+  114  git branch
+  115  git add . 
+  116  git commit -m "son"
+  117  git push
+  118  git checkout feyyza
+  119  git push
+  120  git push --set-upstream origin feyyza
+  121  PWD
+  122  cd one drive
+  123  cd onedrive
+  124  cd desktop
+  125  cd HW_GOIT
+  126  git init
+  127  git clone https://github.com/feyyzanur/HW_10.git
+  128  cd HW_10
+  129  git init
+  130  git status
+  131  git add . gitignore
+  132  git add . gitignore
+  133  git add .gitignore
+  134  git commit -m "test_ignore.text eklendi"
+  135  git add main_test
+  136  git add .
+  137  git commit -m "main_test dosya ekleme"
+  138  git branch develop
+  139  git checkout develop
+  140  git add .
+  141  git commit -m "develop_test dosyası eklendi"
+  142  git status
+  143  git add .
+  144  git commit -m "develop_test dosyasına ekleme yapıldı"
+  145  git checkout main
+  146  git merge develop 
+  147  git log
+  148  history > command_list.csv
